@@ -2,7 +2,7 @@
 
 This is a simple interactive quiz game built using HTML, CSS, and JavaScript. It dynamically displays questions, allows the user to select answers, and tracks the score.
 
-## Features
+## Features   
 - Dynamic questions and answer choices.
 - Tracks the user's score.
 - Navigation buttons for "Back" and "Previous Question".
