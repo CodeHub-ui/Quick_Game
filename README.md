@@ -1,5 +1,5 @@
 # Interactive Quiz Game
-
+           
 This is a simple interactive quiz game built using HTML, CSS, and JavaScript. It dynamically displays questions, allows the user to select answers, and tracks the score.
 
 ## Features   
